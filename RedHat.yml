@@ -20,7 +20,7 @@
 
   - name: Download a Template
     get_url:
-      url: https://www.free-css.com/assets/files/free-css-templates/download/page294/shapel.zip
+      url: https://www.free-css.com/assets/files/free-css-templates/download/page294/shape2.zip
       dest: /tmp/shapel.zip
 
   - name: Extract Template
